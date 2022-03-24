@@ -112,7 +112,6 @@ body {
 .textContent {
     color: white;
     font-family: 'Dosis-ExtraLight', Aerial, sans-serif;
-    text-align: left;
     display: block;
     max-height: 100%;
     max-width: 100%;
@@ -120,7 +119,7 @@ body {
     margin-right: auto;
     padding-top: 2vw;
     padding-bottom: 2vw;
-    font-size: 1.5vh;
+    font-size: 1vh;
     border: 0px;
 }
 
